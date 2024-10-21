@@ -14,3 +14,5 @@ output "subnet_ids" {
   value = aws_subnet.devopsshack_subnet[*].id
 }
 
+
+
